@@ -1,0 +1,47 @@
+.works_log {
+    margin-left: 200px;
+}
+
+.main_content {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.cap {
+    background-color: #BEBEBE;
+}
+
+.apple {
+    margin-left: 20px;
+    color: #B6B6B4;
+}
+
+.info {
+    background-color: #98AFC7;
+}
+
+.is_finished_info {
+    background-color: #ffb6c1;
+}
+
+.job_table {
+    margin-bottom: 20px;
+}
+
+.lol {
+    margin-left: 100px;
+}
+
+p {
+    width: 600px;
+    margin-bottom: 1px;
+}
+
+label {
+    font-size: 15px;
+    margin: 1px 1px 1px 1px;
+}
+
+input {
+    margin-bottom: 5px;
+}
